@@ -1,0 +1,1 @@
+iverilog -o johnson_sim johnson_counter_4bit.v tb_johnson_counter_4bit.v
